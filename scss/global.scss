@@ -1,0 +1,19 @@
+@import "reset", "variables";
+
+.text-red {
+	color: $red;
+	@extend .bold;
+}
+
+.text-green {
+	color: $green;
+}
+
+.text-blue {
+	color: $blue;
+	@extend .bold;
+}
+
+.bold {
+	font-weight: $bold;
+}

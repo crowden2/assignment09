@@ -1,0 +1,11 @@
+.text-red {
+  color: red; }
+
+.text-green {
+  color: lime; }
+
+.text-blue {
+  color: blue; }
+
+.bold, .text-red, .text-blue {
+  font-weight: bold; }
